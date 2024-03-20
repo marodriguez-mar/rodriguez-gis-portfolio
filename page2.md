@@ -1,6 +1,7 @@
 # Week 2 assignment - Build and deploy a custom Google Map for a non-profit organization
 
 ![Image of Map created for Housing Up Nonprofit](HousingUpDC_Map.png)
+see the map on this [page](google_map_style_housingup.html)
 
 ## Pallette 
 | Feature type             | Element type          | Stylers                             |
