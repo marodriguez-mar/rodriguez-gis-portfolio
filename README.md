@@ -1,5 +1,5 @@
 # rodriguez-gis-portfolio
-This is my portfolio for my Spatial Data Science class!
+This is my [portfolio](https://marodriguez-mar.github.io/rodriguez-gis-portfolio/) for my Spatial Data Science class!
 
 # About me
 Michael (he/him) is a soon to be graduate of Carnegie Mellon's Master's of Science in Public Policy and Management with concentrations in Urban and Regional Development as well as Data Analytics. Michael best describes himself as a data nerd with a passion for urbanism. He has studied affordable housing, sustainable communities, transportation, and economic development. With a passion for data-driven decision making and urbanism, Michael is committed to working towards solutions for cities that are dealing with the consequences of unaffordable housing, transit access, and community resilience.
