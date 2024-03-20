@@ -11,14 +11,16 @@ Spatial data science feels like a very broad area study. With that said there ar
 
 # Portfolio
 
-## Week 2 Assignment
+## Week 2
+[web map for summer brew fest](summerBrewMap.md)
+
 [check out the custom web map I designed for a non-profit](page2.md)
-## Week 3 Assignment
+## Week 3 
 
-## Week 4 Assignment
+## Week 4 
 
-## Week 5 Assignment
+## Week 5 
 
-## Week 6 Assignment
+## Week 6
 
 ## Final Project
