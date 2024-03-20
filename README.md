@@ -12,7 +12,7 @@ Spatial data science feels like a very broad area study. With that said there ar
 # Portfolio
 
 ## Week 2 Assignment
-- [check out the custom web map I designed for a non-profit](page2.md)
+[check out the custom web map I designed for a non-profit](page2.md)
 ## Week 3 Assignment
 
 ## Week 4 Assignment
