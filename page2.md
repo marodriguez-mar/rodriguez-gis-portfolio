@@ -3,26 +3,7 @@
 ![Image of Map created for Housing Up Nonprofit](HousingUpDC_Map.png)
 
 ## Pallette 
-| Feature type             | Element type          | Stylers                             |
-| ------------------------ | --------------------- | ----------------------------------- |
-| All                      | Geometry              | Color:  Teal (#049a7b)              |
-| All                      | Labels / text fill    | Color: White (#ffffff)              |
-| All                      | Labels / text outline | Color:  Dark Jungle Green (#212121) |
-| Administrative           | Geometry              | Color: Boulder (#757575)            |
-| Country                  | Labels / Text fill    | Color:  Candlelight (#fad60d)       |
-| Locality                 | Labels / Text fill    | Color:  Candlelight (#fad60d)       |
-| POI / Park               | Geometry              | Color: Blue Smoke (#688b89)         |
-| POI / Park               | Labels / Text fill    | Color:  Green Spring Rain(#a3cfb2)  |
-| POI / Park               | Labels / Text outline | Color:  Rangoon Green (#1b1b1b)     |
-| Road                     | Geometry/ fill        | Color:  Pine Green (#007b76)        |
-| Road                     | Labels / Text fill    | Color:  Oslo Grey (#8a8a8a)         |
-| Road / Highway           | Geometry              | Color:  Pine Green (#007b76)        |
-| Road / Controlled access | Geometry              | Color:  Pine Green (#007b76)        |
-| Road / arterial          | Geometry              | Color:  Pine Green (#007b76)        |
-| Road / local             | Labels / text fill    | Color:  Storm Dust (#616161)        |
-| Transit                  | Labels / text fill    | Color: Boulder (#757575)            |
-| Water                    | Geometry              | Color:  Black (#000000)             |
-| Water                    | Labels/ text fill     | Color: Iridium  (#3d3d3d)           |
+![Table figure for pallette](HousingUpPalletteScS.png)
 
 
 see the map on this [page](google_map_style_housingup.html)
