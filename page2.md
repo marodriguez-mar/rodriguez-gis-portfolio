@@ -9,7 +9,9 @@
 ![Table figure for pallette](HousingUpPalletteScS.png)
 
 
- <iframe width="800" height="600" frameborder="0" allowfullscreen src="google_map_style_housingup.html"></iframe> 
+ <iframe width="800" height="600" frameborder="0" allowfullscreen src="https://raw.githubusercontent.com/marodriguez-mar/rodriguez-gis-portfolio/main/google_map_style_housingup.html">
+  
+ </iframe> 
  
 # see the interactive version of the map on this [page](google_map_style_housingup.html)
 
