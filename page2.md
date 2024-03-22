@@ -1,14 +1,16 @@
 # Week 2 assignment - Build and deploy a custom Google Map for a non-profit organization
 
 ![Image of Map created for Housing Up Nonprofit](HousingUpDC_Map.png)
-<img src="countryZoomHousingUp.png" alt="drawing" width="500" height=300/>
-<img src="streetZoomHousingUp.png" alt="drawing" width="500" height=300/>
+<img src="countryZoomHousingUp.png" alt="drawing" width="400" height=300/>
+<img src="streetZoomHousingUp.png" alt="drawing" width="400" height=300/>
 
  
 ## Pallette 
 ![Table figure for pallette](HousingUpPalletteScS.png)
 
 
+ <iframe width="800" height="600" frameborder="0" allowfullscreen src="google_map_style_housingup.html"></iframe> 
+ 
 # see the interactive version of the map on this [page](google_map_style_housingup.html)
 
 ## Design Choices
