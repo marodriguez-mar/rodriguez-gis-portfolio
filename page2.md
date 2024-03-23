@@ -1,18 +1,16 @@
 # Week 2 assignment - Build and deploy a custom Google Map for a non-profit organization
 
+#Scale of Map
+## City
 ![Image of Map created for Housing Up Nonprofit](HousingUpDC_Map.png)
-<img src="countryZoomHousingUp.png" alt="drawing" width="400" height=300/>
-<img src="streetZoomHousingUp.png" alt="drawing" width="400" height=300/>
+## Country and Street Scale
+<img src="countryZoomHousingUp.png" alt="drawing" width="400" height=300/> <img src="streetZoomHousingUp.png" alt="drawing" width="400" height=300/>
 
  
 ## Pallette 
 ![Table figure for pallette](HousingUpPalletteScS.png)
 
 
- <iframe width="800" height="600" frameborder="0" allowfullscreen src="https://raw.githubusercontent.com/marodriguez-mar/rodriguez-gis-portfolio/main/google_map_style_housingup.html">
-  
- </iframe> 
- 
 # see the interactive version of the map on this [page](google_map_style_housingup.html)
 
 ## Design Choices
