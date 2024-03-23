@@ -1,6 +1,8 @@
 # Week 2 assignment - Build and deploy a custom Google Map for a non-profit organization
 
-#Scale of Map
+# [Bid for Project](week2/week2bid.pdf)
+
+# Scale of Map
 ## City
 ![Image of Map created for Housing Up Nonprofit](HousingUpDC_Map.png)
 ## Country and Street Scale
@@ -8,6 +10,7 @@
 
  
 ## Pallette 
+![color pallette](week2/housingupCoolors.png)
 ![Table figure for pallette](HousingUpPalletteScS.png)
 
 
