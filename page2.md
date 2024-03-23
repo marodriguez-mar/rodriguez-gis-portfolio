@@ -1,6 +1,6 @@
 # Week 2 assignment - Build and deploy a custom Google Map for a non-profit organization
 
-# [Bid for Project](week2/week2bid.pdf)
+# [Bid for Project](week2/week2Bid.pdf)
 
 # Scale of Map
 ## City
