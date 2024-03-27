@@ -18,7 +18,7 @@ Spatial data science feels like a very broad area study. With that said there ar
 ## Week 3 
 [check out the custom dashboard I made with ArcGIS Insights](week3/page3_insightsExercise.md)
 
-[dashboard for cyclists collisions in ottawa](cyclistInsights.html)
+[dashboard for cyclists collisions in ottawa](cyclistInsights.md)
 ## Week 4 
 
 ## Week 5 
